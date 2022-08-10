@@ -1,0 +1,30 @@
+.dvcont01{
+    border: 2px solid #FFFFFF;
+    border-radius: 15px;
+    width: 750px;
+    background-color: #FFFFFF;
+    color: #000000;
+    margin-top: 60px;
+}
+.dvcont02{
+    border : 2px solid #2ecb46;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 10px;
+}
+.tb{
+    background: url('https://utvt.edomex.gob.mx/sites/utvt.edomex.gob.mx/files/images/1%20copia.jpg') no-repeat bottom right;
+    text-align: left;
+}
+.tb td{ background-color: transparent; }
+.tbfoto {justify-content: center; }
+.tbfondo{text-align: center; }
+.imgtitulo{
+    width: 700px;
+    height: 100px;
+}
+.imgfoto{
+    width: 150px;
+    height: 200px;
+    border: 3px solid #2ecb46;
+}
